@@ -4,13 +4,13 @@ export const config = {
      */
 
     // 公众号APP_ID
-    APP_ID: "",
+    APP_ID: "wxbc213ff417a773d4",
     // 公众号APP_SECRET
-    APP_SECRET: "",
+    APP_SECRET: "8e6f7ce738693ce6278190c8557b6cb2",
     // 模板消息id
-    TEMPLATE_ID: "",
+    TEMPLATE_ID: "	6CHLB2xf5m4rkjSeweEcs_uAc5jU7jhVrXo831MhGPg",
     // 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-    USERS: [""],
+    USERS: ["opdHp5218yFtRPENIVtQ05URjRz8"],
      
     /**
      * 信息配置
@@ -19,9 +19,9 @@ export const config = {
     /** 天气相关 */
 
     // 所在省份
-    PROVINCE: "广东",
+    PROVINCE: "浙江",
     // 所在城市
-    CITY: "惠州",
+    CITY: "绍兴",
 
     /** 生日相关 */
 
@@ -34,9 +34,9 @@ export const config = {
     /** 日期相关 */
 
     // 在一起的日子，格式同上
-    LOVE_DATE: "2015-05-01",
+    LOVE_DATE: "2022-02-14",
     // 结婚纪念日
-    MARRY_DATE: "2020-01-04",
+    know_DATE: "2019-02-16",
 
 
     /** 好文节选 */
